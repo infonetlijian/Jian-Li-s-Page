@@ -1,6 +1,6 @@
 intro:
   name: Jian Li
-  title: Ph.D, PostDoctoral, IEEE Member
+  title: Ph.D, PostDoctoral Researcher, IEEE Member
   avatar:
     display: true
     path: profile.png
@@ -41,13 +41,11 @@ interests:
 
 profile:
   display: true
-  title: Profile
+  title: Labtoratory
   details: |
-    Postdoctoral 
-    + First
-    + Second
-
-    ...
+    + Lab. of Information Network, Anhui Province Key Laboratory of Future Internet
+    + Department of Electronic Engineering and Information Science and Department of Information Security
+    + University of Science and Technology of China
 
 education:
   display: true
@@ -55,56 +53,37 @@ education:
   items:
     - university: University of Science and Technology of China
       time: 2015 - 2020
-      major: Machine Learning
+      major: Information and Communication System
       degree: Ph.D
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        Supervised by Prof. Yongdong Zhang and Prof. Kaiping Xue
 
     - university: Anhui University
       time: 2011 - 2015
       major: Communication Engineering
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Visiting Scholr
+      time: 2019.11 - 2020.11
+      company: University of Florida
       tag:
-      location: Beijing
+      location: Gainesville, FL, United States
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+        Surpervised by Prof. Yuguang Fang
+    - role: Oral Presentation
+      time: 2017.05
+      company: 2017 International Conference on Communications
+      tag:
+      location: Paris, France
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+     
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -124,19 +103,29 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
+   
 
   items:
     - title: Google Scholar
-      authors: Jian Li
       link: https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
+    - title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
+      authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
+      conference: IEEE Wireless Communications Letters, 2020
       link:
-
+    - title: Energy efficiency and traffic offloading optimization in integrated satellite/terrestrial radio access networks
+      authors: Jian Li, Kaiping Xue, David S. L. Wei, Jianqing Liu, Yongdong Zhang
+      conference: IEEE Transactions on Wireless Communications, 2020
+      link:
+    - title: An ICN/SDN-based network architecture and efficient content retrieval for future satellite-terrestrial integrated networks
+      authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang
+      conference: IEEE Network, 2019
+      link:
+    - title: Temporal netgrid model-based dynamic routing in large-scale small satellite networks
+      authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
+      conference: IEEE Transactions on Vehicular Technology, 2019
+      link:
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
@@ -146,7 +135,7 @@ skills:
     ...
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
