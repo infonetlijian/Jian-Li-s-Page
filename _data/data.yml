@@ -1,28 +1,28 @@
 intro:
-  name: Foo Bar
-  title: Backend Developer
+  name: Jian Li
+  title: Ph.D, PostDoctoral, IEEE Member
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: lijian9@mail.ustc.edu.cn
+  phone: 
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
   linkedin:
-  github: github
+  github: 
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -32,7 +32,7 @@ languages:
 
 interests:
   display: true
-  title: Interests
+  title: Research Interests
   items:
     - item: Reading
       link:
@@ -43,7 +43,7 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
+    Postdoctoral 
     + First
     + Second
 
@@ -53,10 +53,10 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
+    - university: University of Science and Technology of China
+      time: 2015 - 2020
       major: Machine Learning
-      degree: Master
+      degree: Ph.D
       details: |
         Experience in this university:
         + First
@@ -64,9 +64,9 @@ education:
 
         ...
 
-    - university: Example University
+    - university: Anhui University
       time: 2011 - 2015
-      major: Computer Science
+      major: Communication Engineering
       degree: Bachelor
       details: |
         Experience in this university:
@@ -127,10 +127,9 @@ publications:
     This is all the books I wrote.
 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
+    - title: Google Scholar
+      authors: Jian Li
+      link: https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN
     - title: The Art of Bar
       authors: Foo Bar
       conference: Foobar, 2019
