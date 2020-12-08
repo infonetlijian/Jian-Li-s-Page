@@ -53,14 +53,14 @@ education:
   title: Education
   items:
     - university: University of Science and Technology of China
-      time: 2015 - 2020
+      time: 2015.09 - 2020.12
       major: Information and Communication System
       degree: Ph.D
       details: |
         Supervised by Prof. Yongdong Zhang and Prof. Kaiping Xue
 
     - university: Anhui University
-      time: 2011 - 2015
+      time: 2011.09 - 2015.06
       major: Communication Engineering
       degree: Bachelor
 
@@ -68,7 +68,7 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Visiting Scholr
+    - role: Visiting Scholar
       time: 2019.11 - 2020.11
       company: University of Florida
       tag:
