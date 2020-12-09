@@ -34,19 +34,19 @@ interests:
   display: true
   title: Research Interests
   items:
-    + item: Key Technologies in 6G/Intelligent Reflecting Surface
+    - item: Key Technologies in 6G/Intelligent Reflecting Surface
       link:
-    + item: Satellite Networking/Integrated Satellite-Terrestrial Networks/Space Information Networks
+    - item: Satellite Networking/Integrated Satellite-Terrestrial Networks/Space Information Networks
       link:
-    + item: Information-Centric Networking
+    - item: Information-Centric Networking
       link:
 profile:
   display: true
   title: Labtoratory
   details: |
-    + Lab. of Information Network, Anhui Province Key Laboratory of Future Internet
-    + Department of Electronic Engineering and Information Science and Department of Information Security
-    + University of Science and Technology of China
+    - Lab. of Information Network, Anhui Province Key Laboratory of Future Internet
+    - Department of Electronic Engineering and Information Science and Department of Information Security
+    - University of Science and Technology of China
 
 education:
   display: true
@@ -107,29 +107,29 @@ publications:
    
 
   items:
-    + title: Google Scholar
+    - title: Google Scholar
       link: https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN
-    + title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
+    - title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
       conference: IEEE Wireless Communications Letters, 2020
       link:
-    + title: Energy efficiency and traffic offloading optimization in integrated satellite/terrestrial radio access networks
+    - title: Energy efficiency and traffic offloading optimization in integrated satellite/terrestrial radio access networks
       authors: Jian Li, Kaiping Xue, David S. L. Wei, Jianqing Liu, Yongdong Zhang
       conference: IEEE Transactions on Wireless Communications, 2020
       link:
-    + title: An ICN/SDN-based network architecture and efficient content retrieval for future satellite-terrestrial integrated networks
+    - title: An ICN/SDN-based network architecture and efficient content retrieval for future satellite-terrestrial integrated networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang
       conference: IEEE Network, 2019
       link:
-    + title: Temporal netgrid model-based dynamic routing in large-scale small satellite networks
+    - title: Temporal netgrid model-based dynamic routing in large-scale small satellite networks
       authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
       link:
-    + title: Temporal netgrid model based routing optimization in satellite networks
+    - title: Temporal netgrid model based routing optimization in satellite networks
       authors: Jian Li, Hancheng Lu, Yali Wang
       conference: IEEE International Conference on Communications (ICC), 2017
       link:
-    + title: A two-layer caching model for content delivery services in satellite-terrestrial networks
+    - title: A two-layer caching model for content delivery services in satellite-terrestrial networks
       authors: Hao Wu, Jian Li, Hancheng Lu, Peilin Hong
       conference: IEEE global communications conference (GLOBECOM), 2016
       link:
