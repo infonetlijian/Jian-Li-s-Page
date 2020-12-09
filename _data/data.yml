@@ -1,6 +1,10 @@
 intro:
   name: Jian Li
   title: Ph.D, PostDoctoral Researcher, IEEE Member
+  details:
+    - Lab. of Information Network, Anhui Province Key Laboratory of Future Internet
+    - Department of Electronic Engineering and Information Science and Department of Information Security
+    - University of Science and Technology of China
   avatar:
     display: true
     path: profile.png
@@ -33,7 +37,7 @@ languages:
 interests:
   display: true
   title: Research Interests
-  items:
+  items:|
     - item: Key Technologies in 6G/Intelligent Reflecting Surface
       link:
     - item: Satellite Networking/Integrated Satellite-Terrestrial Networks/Space Information Networks
@@ -42,11 +46,9 @@ interests:
       link:
 profile:
   display: true
-  title: Labtoratory
+  title: News
   details: |
-    - Lab. of Information Network, Anhui Province Key Laboratory of Future Internet
-    - Department of Electronic Engineering and Information Science and Department of Information Security
-    - University of Science and Technology of China
+
 
 education:
   display: true
