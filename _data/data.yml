@@ -1,10 +1,7 @@
 intro:
   name: Jian Li
-  title: Ph.D, PostDoctoral Researcher, IEEE Member
-  details:
-    - Lab. of Information Network, Anhui Province Key Laboratory of Future Internet
-    - Department of Electronic Engineering and Information Science and Department of Information Security
-    - University of Science and Technology of China
+  title: Ph.D, PostDoctoral Researcher (University of Science and Technology of China), IEEE Member
+  
   avatar:
     display: true
     path: profile.png
