@@ -110,7 +110,7 @@ publications:
     + title: Google Scholar
       link: https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN
     + title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
-      authors: *Jian Li*, Kaiping Xue, Jianqing Liu, Yongdong Zhang
+      authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
       conference: IEEE Wireless Communications Letters, 2020
       link:
     + title: Energy efficiency and traffic offloading optimization in integrated satellite/terrestrial radio access networks
@@ -125,7 +125,14 @@ publications:
       authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
       link:
-      
+    + title: Temporal netgrid model based routing optimization in satellite networks
+      authors: Jian Li, Hancheng Lu, Yali Wang
+      conference: IEEE International Conference on Communications (ICC), 2017
+      link:
+    + title: A two-layer caching model for content delivery services in satellite-terrestrial networks
+      authors: Hao Wu, Jian Li, Hancheng Lu, Peilin Hong
+      conference: IEEE global communications conference (GLOBECOM), 2016
+      link:
 skills:
   display: false
   title: Skills
