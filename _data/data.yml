@@ -21,24 +21,14 @@ contact:
   quora:
   goodreads:
 
-languages:
-  display: false
-  title: Languages
-  items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
 
 interests:
   display: true
   title: Research Interests
   items:
     - item: Key Technologies in 6G, Intelligent Reflecting Surface  
-
       link:
     - item: Satellite Networking, Integrated Satellite-Terrestrial Networks
-    
       link:
     - item: Information-Centric Networking  
       link:
@@ -46,10 +36,9 @@ profile:
   display: true
   title: News
   details: |
-    2020.12, I become a PostDoctoral Researcher in University of Science and Technology of China.
-
-    2020.11, I successfully defense of my doctoral dissertation and get my Ph.D degree!
-
+    #记得手动换行
+    2020.12, I become a PostDoctoral Researcher in University of Science and Technology of China.<br>
+    2020.11, I successfully defense of my doctoral dissertation and get my Ph.D degree!<br>
 education:
   display: true
   title: Education
@@ -146,18 +135,8 @@ skills:
 
     ...
 
-evaluation:
-  display: false
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
-
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
