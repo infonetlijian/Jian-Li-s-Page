@@ -12,7 +12,7 @@
         {% if interest.link %}
         <li><a href="{{ interest.link }}" target="_blank">{{ interest.item }}</a></li>
         {% else %}
-        {{ profile.details | markdownify }}
+        {{ interest.details | markdownify }}
         {% endif %}
 
         {% endfor %}
