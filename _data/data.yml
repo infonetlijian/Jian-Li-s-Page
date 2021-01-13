@@ -35,8 +35,10 @@ interests:
   title: Research Interests
   items:
     - item: Key Technologies in 6G, Intelligent Reflecting Surface  
+
       link:
     - item: Satellite Networking, Integrated Satellite-Terrestrial Networks
+    
       link:
     - item: Information-Centric Networking  
       link:
@@ -109,7 +111,7 @@ publications:
   items:
     - title: Link to Google Scholar
       link: https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN 
-       
+
     - title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
       conference: IEEE Wireless Communications Letters, 2020
