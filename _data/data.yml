@@ -95,12 +95,8 @@ publications:
   display: true
   title: Publications
   intro: |
-   
-
+    - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   items:
-    - title: Link to Google Scholar
-      link: https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN 
-
     - title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
       conference: IEEE Wireless Communications Letters, 2020
