@@ -26,10 +26,12 @@ interests:
   display: true
   title: Research Interests
   items:
-    1.Key Technologies in 6G, Intelligent Reflecting Surface<br>
-    2.Satellite Networking, Integrated Satellite-Terrestrial Networks<br>
-    3.Information-Centric Networking<br>
-
+    - item: 1.Key Technologies in 6G, Intelligent Reflecting Surface  
+      link:
+    - item: 2.Satellite Networking, Integrated Satellite-Terrestrial Networks
+      link:
+    - item: 3.Information-Centric Networking  
+      link:
 profile:
   display: true
   title: News
