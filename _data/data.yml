@@ -61,6 +61,14 @@ experiences:
   display: true
   title: Experiences
   items:
+     - role: Session Chair 
+      time: 2021.06
+      company: 2021 International Workshop on Quality of Service (IWQoS)
+      tag:
+      location: Vritual Conference
+      details: |
+        (Session 14)
+        
     - role: Visiting Scholar
       time: 2019.11 - 2020.11
       company: University of Florida
@@ -70,11 +78,11 @@ experiences:
         Surpervised by Prof. Yuguang Fang
     - role: Oral Presentation
       time: 2017.05
-      company: 2017 International Conference on Communications
+      company: 2017 International Conference on Communications (ICC)
       tag:
       location: Paris, France
       details: |
-     
+
 
 projects:
   display: false
