@@ -59,7 +59,7 @@ education:
       degree: Bachelor
 
 experiences:
-  display: true
+  display: false
   title: Experiences
   items:
     - role: Session Chair 
