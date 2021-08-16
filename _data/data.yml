@@ -38,6 +38,7 @@ profile:
   display: true
   title: News
   details: |
+    2021.8，I receive ``Outstanding Youth Award of Mozi'' of USTC!<br>
     2021.6, I serve as the session chair (session 14) in IWQoS 2021!<br>
     2020.12, I become a PostDoctoral Researcher in University of Science and Technology of China.<br>
     2020.11, I successfully defense of my doctoral dissertation and get my Ph.D degree!<br>
@@ -61,13 +62,13 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Session Chair (Session 14)
+    - role: Session Chair 
       time: 2021.06
       company: 2021 International Workshop on Quality of Service (IWQoS)
       tag:
       location: Vritual Conference
       details: |
-
+        Session 14: Systems
     - role: Visiting Scholar
       time: 2019.11 - 2020.11
       company: University of Florida
