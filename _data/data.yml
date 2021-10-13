@@ -1,6 +1,6 @@
 intro:
   name: Jian Li
-  title: Ph.D, PostDoctoral Researcher, IEEE Member
+  title: Ph.D, PostDoctoral Fellow, IEEE Member
   avatar:
     display: true
     path: profile.jpg
@@ -109,7 +109,7 @@ publications:
   items:
     - title: Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems
       authors: Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang, Qibin Sun
-      conference: IEEE Transactions on Mobile Computing, 2021 (Major Revision)
+      conference: IEEE Transactions on Mobile Computing, 2021
     - title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
       conference: IEEE Wireless Communications Letters, 2020
