@@ -91,8 +91,8 @@ projects:
   intro: |
     
   items:
-    - name: Research on Graph Nerual Network-based Intelligent Routing Mechanism in Satellite-Terrestrial Integrated Information Networks
-      link: 天地一体化信息网络中基于图神经网络的智能路由机制研究
+    - name: 天地一体化信息网络中基于图神经网络的智能路由机制研究
+      link: 
       details: |
         Supported by China Postdoctoral Science Foundation
 
