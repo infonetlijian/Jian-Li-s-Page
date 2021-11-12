@@ -38,7 +38,8 @@ profile:
   display: true
   title: News
   details: |
-    2021.8，I receive ''Outstanding Youth Award of Mozi'' of USTC!<br>
+    2021.11, I receive the general funding supported by China Postdoctoral Science Foundation (博士后科学基金面上资助)!<br>
+    2021.9，I receive ''Outstanding Youth Award of Mozi'' of USTC!<br>
     2021.6, I serve as the session chair (session 14) in IWQoS 2021!<br>
     2020.12, I become a PostDoctoral Researcher in University of Science and Technology of China.<br>
     2020.11, I successfully defense of my doctoral dissertation and get my Ph.D degree!<br>
@@ -85,21 +86,15 @@ experiences:
 
 
 projects:
-  display: false
-  title: Projects
+  display: true
+  title: Research Projects
   intro: |
-    This is all the projects I'm involved in.
-
+    
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Research on Graph Nerual Network-based Intelligent Routing Mechanism in Satellite-Terrestrial Integrated Information Networks
+      link: 天地一体化信息网络中基于图神经网络的智能路由机制研究
       details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+        Supported by China Postdoctoral Science Foundation
 
 publications:
   display: true
