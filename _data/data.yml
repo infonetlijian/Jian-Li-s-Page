@@ -38,7 +38,7 @@ profile:
   display: true
   title: News
   details: |
-    2021.11, I receive the general funding supported by China Postdoctoral Science Foundation (博士后科学基金面上资助)!<br>
+    2021.11, I receive the general funding supported by China Postdoctoral Science Foundation!<br>
     2021.9，I receive ''Outstanding Youth Award of Mozi'' of USTC!<br>
     2021.6, I serve as the session chair (session 14) in IWQoS 2021!<br>
     2020.12, I become a PostDoctoral Researcher in University of Science and Technology of China.<br>
@@ -63,13 +63,6 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Session Chair (Session 14-Systems)
-      time: 2021.06
-      company: 2021 International Workshop on Quality of Service (IWQoS)
-      tag:
-      location: Vritual Conference
-      details: |
-        
     - role: Visiting Scholar
       time: 2019.11 - 2020.11
       company: University of Florida
@@ -77,12 +70,6 @@ experiences:
       location: Gainesville, FL, United States
       details: |
         Surpervised by Prof. Yuguang Fang
-    - role: Oral Presentation
-      time: 2017.05
-      company: 2017 International Conference on Communications (ICC)
-      tag:
-      location: Paris, France
-      details: |
 
 
 projects:
@@ -94,7 +81,7 @@ projects:
     - name: 天地一体化信息网络中基于图神经网络的智能路由机制研究
       link: 
       details: |
-        Supported by China Postdoctoral Science Foundation
+        Supported by China Postdoctoral Science Foundation (博士后科学基金面上资助)
 
 publications:
   display: true
@@ -102,40 +89,40 @@ publications:
   intro: |
     - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   items:
-    - title: Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems
+    - title: 7.Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems
       authors: Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang, Qibin Sun
       conference: IEEE Transactions on Mobile Computing, 2021
-    - title: A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
+    - title: 6.A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
       conference: IEEE Wireless Communications Letters, 2020
       link:
-    - title: Energy efficiency and traffic offloading optimization in integrated satellite/terrestrial radio access networks
+    - title: 5.Energy efficiency and traffic offloading optimization in integrated satellite/terrestrial radio access networks
       authors: Jian Li, Kaiping Xue, David S. L. Wei, Jianqing Liu, Yongdong Zhang
       conference: IEEE Transactions on Wireless Communications, 2020
       link:
-    - title: An ICN/SDN-based network architecture and efficient content retrieval for future satellite-terrestrial integrated networks
+    - title: 4.An ICN/SDN-based network architecture and efficient content retrieval for future satellite-terrestrial integrated networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang
       conference: IEEE Network, 2019
       link:
-    - title: Temporal netgrid model-based dynamic routing in large-scale small satellite networks
+    - title: 3.Temporal netgrid model-based dynamic routing in large-scale small satellite networks
       authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
       link:
-    - title: Temporal netgrid model based routing optimization in satellite networks
+    - title: 2.Temporal netgrid model based routing optimization in satellite networks
       authors: Jian Li, Hancheng Lu, Yali Wang
       conference: IEEE International Conference on Communications (ICC), 2017
       link:
-    - title: A two-layer caching model for content delivery services in satellite-terrestrial networks
+    - title: 1.A two-layer caching model for content delivery services in satellite-terrestrial networks
       authors: Hao Wu, Jian Li, Hancheng Lu, Peilin Hong
-      conference: IEEE global communications conference (GLOBECOM), 2016
+      conference: IEEE Global Communications Conference (GLOBECOM), 2016
       link:
 skills:
-  display: false
-  title: Skills
+  display: true
+  title: Professional Activities
   details: |
-    Here is my skills:
-    + First
-    + Second
+    + Reviewr: IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Network<br>
+    + Session Chiar: IWQoS 2021 (Session 14-Systems)<br>
+    + Oral Presentation: ICC 2017(Paris, France)<br>
 
     ...
 
