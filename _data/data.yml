@@ -102,9 +102,6 @@ publications:
   intro: |
     - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   items:
-    - title: 8.Fidelity Guaranteed Entanglement Purification and Routing in Quantum Networks
-      authors: Jian Li, Mingjun Wang, et al.
-      conference: [arXiv](https://arxiv.org/abs/2111.07764)
     - title: 7.Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems
       authors: Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang, Qibin Sun
       conference: IEEE Transactions on Mobile Computing, 2021
