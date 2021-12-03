@@ -26,13 +26,15 @@ interests:
   display: true
   title: Research Interests
   items:
-    - item: 1.Key Technologies in 6G, Intelligent Reflecting Surface  
+    - item: 1.Key Technologies in 6G, including Intelligent Reflecting Surface and NOMA 
       link:
-    - item: 2.Satellite Networking, Integrated Satellite-Terrestrial Networks
+    - item: 2.Satellite-Terrestrial Integrated Networks
       link:
-    - item: 3.Information-Centric Networking  
+    - item: 3.Edge Computing/Caching, Information-Centric Networking  
       link:
-    - item: 4.Quantum Internet 
+    - item: 4.Next-Generation Internet Architecture  
+      link:
+    - item: 5.Quantum Networks
       link:
 profile:
   display: true
@@ -43,6 +45,7 @@ profile:
     2021.9，I receive ''Outstanding Youth Award of Mozi'' of USTC!<br>
     2021.9，Our paper ''Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems'' is accepted by IEEE Transactions on Mobile Computing!<br>
     2021.8, Our paper ''Service Prioritization in Information Centric Networking with Heterogenous Content Providers'' is accepted by IEEE Transactions on Network and Service Management!<br>
+    2021.8, Our papers '' Low Priority Congestion Control for Multipath TCP'', ''Privacy-Preserving Truth Discovery for Sparse Data in Mobile Crowdsensing Systems'', ''  A Fog-Aided Privacy-Preserving Truth Discovery Framework over Crowdsensed Data Streams'' are accepted by IEEE Globecom 2021!<br>
     2021.7, Our paper ''Build a Large-scale and Wide-area Quantum Internet Based on an OSI-alike Model'' is accepted by China Communications!<br>
     2021.6, I serve as the session chair (session 14) in IWQoS 2021!<br>
     2021.5, Our paper ''Leveraging Coupled BBR and Adaptive Packet Scheduling to Boost MPTCP'' is accepted by IEEE Transactions on Wireless Communications!<br>
@@ -58,7 +61,7 @@ education:
       major: Information and Communication System
       degree: Ph.D
       details: |
-        Supervised by Prof. Yongdong Zhang and Prof. Kaiping Xue
+        Supervised by Prof. Yongdong Zhang and [Prof. Kaiping Xue](http://staff.ustc.edu.cn/~kpxue/)
 
     - university: Anhui University
       time: 2011.09 - 2015.06
@@ -69,13 +72,21 @@ experiences:
   display: true
   title: Experiences
   items:
+    - role: PostDoctoral Fellow
+      time: 2020.12 - Current
+      company: University of Science and Technology of China
+      tag:
+      location: Hefei, China
+      details: |
+        Advisor: Prof. Jun Lu
+  items:
     - role: Visiting Scholar
       time: 2019.11 - 2020.11
       company: University of Florida
       tag:
       location: Gainesville, FL, United States
       details: |
-        Surpervised by Prof. Yuguang Fang
+        Supervised by [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/)
 
 
 projects:
@@ -141,7 +152,7 @@ skills:
   display: true
   title: Professional Activities
   details: |
-    + Reviewr: IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications<br>
+    + Reviewer: IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications<br>
     + Session Chiar: IWQoS 2021 (Session 14-Systems)<br>
     + Oral Presentation: ICC 2017(Paris, France)<br>
 
