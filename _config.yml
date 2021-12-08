@@ -12,6 +12,15 @@ sass:
 lang: en                    # html lang
 open: true                  # open or close your site
 date_format: "%Y-%m-%d"     # date format
-google_analytics: https://www.googletagmanager.com/gtag/js?id=UA-101909927-1          # your google analytics
+google_analytics: UA-101909927-1         # your google analytics
 theme_color: "#1DA1F2"      # your favorite theme color
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-101909927-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-101909927-1');
+</script>
