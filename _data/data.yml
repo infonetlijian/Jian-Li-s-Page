@@ -30,16 +30,15 @@ interests:
       link:
     - item: 2.Satellite-Terrestrial Integrated Networks
       link:
-    - item: 3.Edge Computing/Caching
+    - item: 3.Next-Generation Internet Architecture  
       link:
-    - item: 4.Next-Generation Internet Architecture  
-      link:
-    - item: 5.Quantum Networks
+    - item: 4.Quantum Networks
       link:
 profile:
   display: true
   title: News
   details: |
+    - 2022.1， our paper ''Connection-oriented and Connectionless Remote Entanglement Distribution Strategies in Quantum Networks'' is accepted by IEEE Network!<br>
     - 2021.12, our paper ''A Blockchain Based User Subscription Data Management and Access Control Scheme in Mobile Communication Networks'' is accepted by IEEE Transactions on Vehicular Technology!<br>
     - 2021.11, our paper ''CSEVP: A Collaborative, Secure, Efficient Content Validation Protection Framework for Information Centric Networking'' is accepted by IEEE Transactions on Network and Service Management!<br>
     - 2021.11, I receive the general funding supported by China Postdoctoral Science Foundation!<br>
