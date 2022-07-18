@@ -38,7 +38,11 @@ profile:
   display: true
   title: News
   details: |
+    - 2022.7, our paper "An Asynchronous Entanglement Distribution Protocol for Quantum Networks" is accepted by IEEE Network!<br>
+    - 2022.5, our paper "A Connection-Oriented Entanglement Distribution Design in Quantum Networks" is accepted by IEEE Network!<br>
+    - 2022.1, our paper "A Cluster-based Networking Approach for Large-scale and Wide-area Quantum Key Agreement" is accepted by Quantum Information Processing!<br>
     - 2022.1, our paper "Connection-oriented and Connectionless Remote Entanglement Distribution Strategies in Quantum Networks" is accepted by IEEE Network!<br>
+    - 2022.1, our paper " A Distributed Authentication Scheme Based on Smart Contract for Roaming Service in Mobile Vehicular Networks" is accepted by IEEE Transactions on Vehicular Technology!<br>
     - 2021.12, our paper "A Blockchain Based User Subscription Data Management and Access Control Scheme in Mobile Communication Networks" is accepted by IEEE Transactions on Vehicular Technology!<br>
     - 2021.11, our paper "CSEVP: A Collaborative, Secure, Efficient Content Validation Protection Framework for Information Centric Networking" is accepted by IEEE Transactions on Network and Service Management!<br>
     - 2021.11, I receive the general funding supported by China Postdoctoral Science Foundation!<br>
@@ -147,7 +151,7 @@ skills:
   display: true
   title: Professional Activities
   details: |
-    + Reviewer: IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications<br>
+    + Reviewer: IEEE TCOM, TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications<br>
     + Session Chiar: IWQoS 2021 (Session 14-Systems)<br>
     + Oral Presentation: ICC 2017(Paris, France)<br>
 
