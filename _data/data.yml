@@ -10,7 +10,7 @@ contact:
   phone: 
   whatsapp:
   telegram:
-  website: http://if.ustc.edu.cn/english.php
+  website: http://if.ustc.edu.cn/member.php
   medium: Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   linkedin:
   github: 
@@ -116,72 +116,51 @@ projects:
 publications:
   display: true
   title: Selected Publications
-  intro: |
-    - Journal
   items:
-    - title: 8.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
-      authors: Jian Li, Mingjun Wang, et al. 
+    - title: Journal Papers
+      authors: 
+      conference: <br>
+    - title: 7.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
+      authors: Jian Li, Mingjun Wang, Kaiping Xue, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu
       conference: IEEE Transactions on Communications, 2022
-    - title: 7.Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems
+    - title: 6.A Connection-Oriented Entanglement Distribution Design in Quantum Networks
+      authors: Jian Li, Qidong Jia, Kaiping Xue, David SL Wei, Nenghai Yu
+      conference: IEEE Transactions on Quantum Engineering, 2022
+    - title: 5.Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems
       authors: Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang, Qibin Sun
       conference: IEEE Transactions on Mobile Computing, 2021          
-    - title: 6.A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
+    - title: 4.A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
       conference: IEEE Wireless Communications Letters, 2020
       link:
-    - title: 5.Energy Efficiency and Traffic Offloading Optimization in Integrated Satellite/Terrestrial Radio Access Networks
+    - title: 3.Energy Efficiency and Traffic Offloading Optimization in Integrated Satellite/Terrestrial Radio Access Networks
       authors: Jian Li, Kaiping Xue, David S. L. Wei, Jianqing Liu, Yongdong Zhang
       conference: IEEE Transactions on Wireless Communications, 2020
       link:
-    - title: 4.An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks
+    - title: 2.An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang
       conference: IEEE Network, 2019
       link:
-    - title: 3.Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks
+    - title: 1.Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks
       authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
-      link:
+      link: <br>     
+    - title: Conference Papers
+      authors: 
+      conference: <br>
+    - title: 3.Content-Aware Routing based on Cached Content Prediction in Satellite Networks
+      authors: Jian Li, Hancheng Lu, Yali Wang
+      conference: IEEE Global Communications Conference (Globecom), 2022
+      link: 
     - title: 2.Temporal Netgrid Model based Routing Optimization in Satellite Networks
       authors: Jian Li, Hancheng Lu, Yali Wang
       conference: IEEE International Conference on Communications (ICC), 2017
-      link:
+      link: 
     - title: 1.A Two-Layer Caching Model for Content Delivery Services in Satellite-Terrestrial Networks
       authors: Hao Wu, Jian Li, Hancheng Lu, Peilin Hong
       conference: IEEE Global Communications Conference (GLOBECOM), 2016
       link:
-  intro: |
-    - Journal
-  items:
-    - title: 8.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
-      authors: Jian Li, Mingjun Wang, et al. 
-      conference: IEEE Transactions on Communications, 2022
-    - title: 7.Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems
-      authors: Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang, Qibin Sun
-      conference: IEEE Transactions on Mobile Computing, 2021          
-    - title: 6.A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks
-      authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang
-      conference: IEEE Wireless Communications Letters, 2020
-      link:
-    - title: 5.Energy Efficiency and Traffic Offloading Optimization in Integrated Satellite/Terrestrial Radio Access Networks
-      authors: Jian Li, Kaiping Xue, David S. L. Wei, Jianqing Liu, Yongdong Zhang
-      conference: IEEE Transactions on Wireless Communications, 2020
-      link:
-    - title: 4.An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks
-      authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang
-      conference: IEEE Network, 2019
-      link:
-    - title: 3.Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks
-      authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
-      conference: IEEE Transactions on Vehicular Technology, 2019
-      link:
-    - title: 2.Temporal Netgrid Model based Routing Optimization in Satellite Networks
-      authors: Jian Li, Hancheng Lu, Yali Wang
-      conference: IEEE International Conference on Communications (ICC), 2017
-      link:
-    - title: 1.A Two-Layer Caching Model for Content Delivery Services in Satellite-Terrestrial Networks
-      authors: Hao Wu, Jian Li, Hancheng Lu, Peilin Hong
-      conference: IEEE Global Communications Conference (GLOBECOM), 2016
-      link:
+      
 skills:
   display: true
   title: Professional Activities
