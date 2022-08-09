@@ -37,8 +37,6 @@ interests:
 profile:
   display: true
   title: News
-  intro: |
-    - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   details: |
     - 2022.8, our paper "Fidelity-Guaranteed Entanglement Routing in Quantum Networks" is accepted by IEEE Transactions on Communications!<br>
     - 2022.8, our paper "Content-Aware Routing based on Cached Content Prediction in Satellite Networks", "Privacy-preserving Truth Discovery with Outlier Detection in Mobile Crowdsensing Systems", "Forward Private Multi-Client Searchable Encryption with Efficient Access Control in Cloud Storage" are accepted by Globecom 2022!<br>
@@ -122,8 +120,10 @@ projects:
 publications:
   display: true
   title: Selected Publications
+  intro: |
+    - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   items:
-    - title: <br> Journal Papers <br> 7.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
+    - title: Journal Papers: <br> 7.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
       authors: Jian Li, Mingjun Wang, Kaiping Xue, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu
       conference: IEEE Transactions on Communications, 2022
     - title: 6.A Connection-Oriented Entanglement Distribution Design in Quantum Networks
@@ -148,7 +148,7 @@ publications:
       authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
       link:
-    - title: <br> Conference Papers <br> 3.Content-Aware Routing based on Cached Content Prediction in Satellite Networks
+    - title: <br> Conference Papers: <br> 3.Content-Aware Routing based on Cached Content Prediction in Satellite Networks
       authors: Jian Li, Hancheng Lu, Yali Wang
       conference: IEEE Global Communications Conference (Globecom), 2022
       link: 
