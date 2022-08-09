@@ -11,7 +11,7 @@ contact:
   whatsapp:
   telegram:
   website: http://if.ustc.edu.cn/english.php
-  medium:
+  medium: Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   linkedin:
   github: 
   gitlab:
@@ -115,9 +115,9 @@ projects:
 
 publications:
   display: true
-  title: Selected Publications (Journal)
+  title: Selected Publications
   intro: |
-    - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
+    - Journal
   items:
     - title: 8.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
       authors: Jian Li, Mingjun Wang, et al. 
@@ -149,7 +149,8 @@ publications:
       authors: Hao Wu, Jian Li, Hancheng Lu, Peilin Hong
       conference: IEEE Global Communications Conference (GLOBECOM), 2016
       link:
-  title: Selected Publications (Conference)
+  intro: |
+    - Journal
   items:
     - title: 8.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
       authors: Jian Li, Mingjun Wang, et al. 
