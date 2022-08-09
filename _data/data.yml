@@ -124,7 +124,7 @@ publications:
   title: Selected Publications
   items:
     <br>
-    - title: *Journal Papers*
+    - title: <br>*Journal Papers*
       authors: 
       conference: <br>
     - title: 7.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
@@ -147,11 +147,12 @@ publications:
     - title: 2.An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang
       conference: IEEE Network, 2019
+      link:
     - title: 1.Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks
       authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
-      <br>
-    - title: *Conference Papers*
+      link:
+    - title: <br>*Conference Papers*
       authors: 
       conference: <br>
     - title: 3.Content-Aware Routing based on Cached Content Prediction in Satellite Networks
