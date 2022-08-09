@@ -123,7 +123,7 @@ publications:
   intro: |
     - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN ) <br>
   items:
-    - title: Journal Papers&#58 <br> 7.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
+    - title: <br> Journal Papers&#58 <br> 7.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
       authors: Jian Li, Mingjun Wang, Kaiping Xue, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu
       conference: IEEE Transactions on Communications, 2022
     - title: 6.A Connection-Oriented Entanglement Distribution Design in Quantum Networks
