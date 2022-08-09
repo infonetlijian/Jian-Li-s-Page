@@ -11,7 +11,7 @@ contact:
   whatsapp:
   telegram:
   website: http://if.ustc.edu.cn/member.php
-  medium: Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
+  medium: 
   linkedin:
   github: 
   gitlab:
@@ -37,6 +37,8 @@ interests:
 profile:
   display: true
   title: News
+  intro: |
+    - Link to [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN )
   details: |
     - 2022.8, our paper "Fidelity-Guaranteed Entanglement Routing in Quantum Networks" is accepted by IEEE Transactions on Communications!<br>
     - 2022.8, our paper "Content-Aware Routing based on Cached Content Prediction in Satellite Networks", "Privacy-preserving Truth Discovery with Outlier Detection in Mobile Crowdsensing Systems", "Forward Private Multi-Client Searchable Encryption with Efficient Access Control in Cloud Storage" are accepted by Globecom 2022!<br>
@@ -100,6 +102,10 @@ projects:
   intro: |
     
   items:
+    - name: 4.天地一体化信息网络中基于图神经网络的智能路由机制研究
+      link: 
+      details: |
+        博士后面上基金项目, 2021.12-2022.12, 主持
     - name: 3.信息中心网络中的访问控制和内容有效性保护关键技术研究
       link: 
       details: |
@@ -117,7 +123,8 @@ publications:
   display: true
   title: Selected Publications
   items:
-    - title: Journal Papers
+    <br>
+    - title: *Journal Papers*
       authors: 
       conference: <br>
     - title: 7.Fidelity-Guaranteed Entanglement Routing in Quantum Networks
@@ -140,12 +147,11 @@ publications:
     - title: 2.An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks
       authors: Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang
       conference: IEEE Network, 2019
-      link:
     - title: 1.Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks
       authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
-      link: <br>     
-    - title: Conference Papers
+      <br>
+    - title: *Conference Papers*
       authors: 
       conference: <br>
     - title: 3.Content-Aware Routing based on Cached Content Prediction in Satellite Networks
