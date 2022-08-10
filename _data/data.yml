@@ -153,11 +153,11 @@ publications:
       conference: IEEE Network, 2019
       link:
     - title: 1.Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks
-      authors: Jin Tang, Jian Li, Lan Zhang, Kaiping Xue, Qibin Sun, Jun Lu
+      authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
       conference: IEEE Transactions on Vehicular Technology, 2019
       link:
     - title: <br> Conference Papers&#58 <br> 3.Content-Aware Routing based on Cached Content Prediction in Satellite Networks
-      authors: Jian Li, Hancheng Lu, Yali Wang
+      authors: Jin Tang, Jian Li, Lan Zhang, Kaiping Xue, Qibin Sun, Jun Lu
       conference: IEEE Global Communications Conference (Globecom), 2022
       link: 
     - title: 2.Temporal Netgrid Model based Routing Optimization in Satellite Networks
