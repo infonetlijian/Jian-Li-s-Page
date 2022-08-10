@@ -100,22 +100,30 @@ projects:
   intro: |
     
   items:
-    - name: 4.天地一体化信息网络中基于图神经网络的智能路由机制研究
+    - name: 6.天地一体化信息网络中基于图神经网络的智能路由机制研究
       link: 
       details: |
         博士后面上基金项目, 2021.12-2022.12, 主持
-    - name: 3.信息中心网络中的访问控制和内容有效性保护关键技术研究
+    - name: 5.量子密码在未来网络中的应用研究
+      link: 
+      details: |
+        安徽省量子信息技术先导项目, 2018.01-2023.12, 参与
+    - name: 4.信息中心网络中的访问控制和内容有效性保护关键技术研究
       link: 
       details: |
         国家自然科学基金委员会面上项目 (National Natural Science Foundation of China), 2020.01-2023.12, 参与
-    - name: 2.未来网络试验设施
+    - name: 3.未来网络试验设施
       link: 
       details: |
         发改委重大科技基础设施项目, 2018.01-2023.12, 参与
+    - name: 2.天地一体化网络实体认证与接入防护关键技术与系统
+      link: 
+      details: |
+        科技部重点研发计划项目, 2016.01-2019.10, 参与
     - name: 1.在轨自主组网技术与通信服务框架研究
       link: 
       details: |
-        中科院先导培育项目, 2016.01-2020.12, 参与
+        中科院先导培育项目, 2016.01-2022.12, 参与
 
 publications:
   display: true
@@ -145,7 +153,7 @@ publications:
       conference: IEEE Network, 2019
       link:
     - title: 1.Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks
-      authors: Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang
+      authors: Jin Tang, Jian Li, Lan Zhang, Kaiping Xue, Qibin Sun, Jun Lu
       conference: IEEE Transactions on Vehicular Technology, 2019
       link:
     - title: <br> Conference Papers&#58 <br> 3.Content-Aware Routing based on Cached Content Prediction in Satellite Networks
